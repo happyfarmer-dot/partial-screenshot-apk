@@ -5,9 +5,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_partial_crop"
         android:label="局部截圖"
-        android:roundIcon="@mipmap/ic_launcher"
+        android:roundIcon="@drawable/ic_partial_crop"
         android:supportsRtl="true"
         android:theme="@style/Theme.PartialScreenshot">
 
